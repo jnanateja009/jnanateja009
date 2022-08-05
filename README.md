@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jnanateja009
 - 👀 I’m interested in Cyber Security and Web development
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on Web development and Cybersecurity.
+- 🌱 I’m currently learning C++ and Python, Java
+- 💞️ I’m looking to collaborate on Software development and Cybersecurity.
 - 📫 How to reach me jnanatejagollapudi575@gmail.com
 
 <!---
